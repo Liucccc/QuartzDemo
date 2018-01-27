@@ -100,8 +100,8 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Quartz\Hi.Quartz.csproj">
-      <Project>{2ae99143-9488-4cb8-bfe7-c8c2ad0f5c51}</Project>
+    <ProjectReference Include="..\Hi.Quartz\Hi.Quartz.csproj">
+      <Project>{a50423a2-f5ee-401d-94d8-292693c30320}</Project>
       <Name>Hi.Quartz</Name>
     </ProjectReference>
   </ItemGroup>

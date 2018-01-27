@@ -1,10 +1,11 @@
 ﻿using NLog;
+using Quartz;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace Quartz
+namespace Hi.Quartz
 {
     public class TimeJob2 : IJob
     {
