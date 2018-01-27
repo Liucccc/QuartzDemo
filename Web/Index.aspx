@@ -11,7 +11,8 @@
     <form id="form1" runat="server">
         <div>
 
-            <asp:Button runat="server" Text="15分钟后发送一条消息" OnClick="Min15_Click"/>
+            <asp:Button runat="server" Text="5秒后写一条日志" OnClick="Second5_Click"/>
+            <asp:Button runat="server" Text="今天17:15写一条日志" OnClick="time_Click"/>
 
         </div>
     </form>

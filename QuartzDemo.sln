@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{CC156031-DE45-4D71-B78D-671D7791C37C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hi.Web", "Web\Hi.Web.csproj", "{CC156031-DE45-4D71-B78D-671D7791C37C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quartz", "Quartz\Quartz.csproj", "{2AE99143-9488-4CB8-BFE7-C8C2AD0F5C51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hi.Quartz", "Quartz\Hi.Quartz.csproj", "{2AE99143-9488-4CB8-BFE7-C8C2AD0F5C51}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
